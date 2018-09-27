@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 [assembly: CLSCompliant ( true ) ]
@@ -13,6 +12,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration ( "" )]
 [assembly: AssemblyProduct ( "Elevate" )]
 [assembly: AssemblyCulture ( "" )]
+[assembly: AssemblyCompany ( "Wintellect" )]
+[assembly: AssemblyCopyright ( "Copyright © 1997-2006 John Robbins" )]
+[assembly: AssemblyTrademark ( "" )]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
@@ -30,3 +32,4 @@ using System.Runtime.InteropServices;
 //      Revision
 //
 [assembly: AssemblyVersion ( "1.0.0.0" )]
+[assembly:AssemblyFileVersion ( "4.0.10326.0" )]
